@@ -1,0 +1,26 @@
+{
+  "name": "node-learning",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecil0o0/node-learning.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Cecil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cecil0o0/node-learning/issues"
+  },
+  "homepage": "https://github.com/Cecil0o0/node-learning#readme",
+  "dependencies": {
+    "signale": "^1.2.1"
+  }
+}
