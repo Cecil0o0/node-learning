@@ -1,4 +1,5 @@
 dependencies:
+  dayjs: 1.7.4
   signale: 1.2.1
 packages:
   /ansi-styles/3.2.1:
@@ -29,6 +30,10 @@ packages:
     dev: false
     resolution:
       integrity: sha1-SxQVMEz1ACjqgWQ2Q72C6gWANok=
+  /dayjs/1.7.4:
+    dev: false
+    resolution:
+      integrity: sha512-0uMiu5BH7AB9PUnw3KD9W2BqLB0/5yyfs5pBoF6Xp2JzEYNf35VOSbBKDD0RyMQ6p19M0qOmoGTdaAxkKJ/mqg==
   /error-ex/1.3.2:
     dependencies:
       is-arrayish: 0.2.1
@@ -175,4 +180,5 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 7
 shrinkwrapVersion: 3
 specifiers:
+  dayjs: ^1.7.4
   signale: ^1.2.1
